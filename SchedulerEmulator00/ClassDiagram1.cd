@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="SchedulerEmulator00.process.AProcesso">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAEAAA=</HashCode>
+      <FileName>process\AProcesso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulerEmulator00.process.DescritorProcesso">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAACACAAAQAAAAFAAAAAAAAAAAAAAAAEAAAABAABAgA=</HashCode>
+      <FileName>process\DescritorProcesso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulerEmulator00.process.Processo">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAQAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>process\Processo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulerEmulator00.process.ProcessoGenerico">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAgAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAgAAAA=</HashCode>
+      <FileName>process\ProcessoGenerico.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulerEmulator00.Program">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SchedulerEmulator00.scheduler.RoundRobin">
+    <Position X="4" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAAAAAMAAAAAAAAAAEAAAAAAACAAAAAAAAAAAEIAA=</HashCode>
+      <FileName>scheduler\RoundRobin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
